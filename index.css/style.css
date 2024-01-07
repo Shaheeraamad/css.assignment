@@ -1,0 +1,63 @@
+#div1{
+    background-image: url(./GIRL.jpg);
+    height: 500px;
+    width: 890px;
+    margin-right: 500px;
+    image-resolution: 20px;
+    border-image-width: 10px;
+    margin-left: 200px;
+    padding-left: 40px;
+
+}
+#font{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 30px;
+    margin-top: 250px;
+    margin-bottom: 50px;
+    margin-left: 320px;
+    margin-right: 200px;
+    border-radius: 10px;
+    border: 2px solid white;
+    opacity: 0.9;
+    top: 10%;
+    position: absolute;
+    
+}
+#div2{
+    background-color: lightgray; text-emphasis-color: black; 
+    text-align: center;
+    font-style: normal;
+    font-size: xx-large;
+    height: 50px;
+    padding-top: 20px;
+    margin-top: 0;
+    justify-content: space-evenly;
+    text-decoration-style: solid;
+   
+}
+#div3{
+    height: 70px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+#image1{
+    height: 300px;
+    width: 700px;
+  
+}
+#image2{
+    height: 300px;
+    width: 700px;
+    
+}
+#image3{
+    height: 300px;
+    width: 700px;
+    
+}
